@@ -2,10 +2,10 @@
 用于路特斯计划（Project：Lotus）的翻译文件.
 
 
-## How to translate and add your own language!
-1. [Fork this Repository](https://github.com/Lotus-AU/Languages/fork)
-2. Make a new file for the language you wish to translate, matching the pattern of other translation files. (Ex: lang_(Language).yaml)
-3. Copy the strings from another file (like English) into your file and begin translating!
-4. Once you're done translating, you can make a pull request with your file (by going to the pull request tab of your fork and pressing **New**)
+## 如何翻译并添加你自己想要的语言!
+1. [创立此仓库的分支](https://github.com/Lotus-AU/Languages/fork)
+2. 给你想要添加的语言制作一个新的文件,文件格式要与其他文件匹配. (例如: lang_(Language).yaml)
+3. 从其他翻译文件中(比如英语文件)把字符串(文件内容)复制到你的文件中并开始翻译!
+4. 当你完成了翻译之后, 你可以用你的文件提出合并请求 (去到你的分支仓库的拉取请求界面并且按下**New**)
 
-Comgrats, if it gets accepted then you've successfully added a language to Project: Lotus, thank you so much for helping us!
+恭喜,如果申请通过了那么你就成功的把一个新语言加入进了Project: Lotus, 非常感谢您的帮助!
